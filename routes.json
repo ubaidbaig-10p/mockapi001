@@ -1,0 +1,7 @@
+{
+    "/api/*": "/$1",    
+    "/account/logout/": "/users",
+    "/account/login/": "/users",    
+    "/account/reset-password/": "/users",
+    "/account/me/": "/users"    
+  }
